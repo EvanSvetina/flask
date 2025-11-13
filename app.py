@@ -13,20 +13,20 @@ class InfoModel:
     def __init__(self):
         self.data = [
             {
-                "FirstName": "John",
-                "LastName": "Mortensen",
-                "DOB": "October 21",
+                "FirstName": "Evan",
+                "LastName": "Svetina",
+                "DOB": "February 10",
                 "Residence": "San Diego",
-                "Email": "jmortensen@powayusd.com",
-                "Owns_Cars": ["2015-Fusion", "2011-Ranger", "2003-Excursion", "1997-F350", "1969-Cadillac", "2015-Kuboto-3301"]
+                "Email": "evanthehedgehog43@gmail.com",
+                "Owns_Cars": ["N/A"]
             },
             {
-                "FirstName": "Shane",
-                "LastName": "Lopez",
-                "DOB": "February 27",
-                "Residence": "San Diego",
-                "Email": "slopez@powayusd.com",
-                "Owns_Cars": ["2021-Insight"]
+                "FirstName": "East",
+                "LastName": "Shetanfi",
+                "DOB": "Xeebuary 88",
+                "Residence": "Planet Glonk",
+                "Email": "N/A",
+                "Owns_Cars": ["2098-Hyborg"]
             }
         ]
 
